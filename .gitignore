@@ -1,0 +1,26 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+*.pyc
+
+# Данные и результаты (не храним чувствительные файлы!)
+*.xlsx
+*.xls
+*.json
+*.png
+*.log
+
+# Операционная система
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Чувствительные данные и результаты
+*.pdf
+*.xlsx
+*.xls
+*.json
+*.png
+*.txt
+*.log
+*:Zone.Identifier
